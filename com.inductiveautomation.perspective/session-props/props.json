@@ -162,7 +162,7 @@
     }
   },
   "props": {
-    "address": "192.168.38.48",
+    "address": "172.19.0.2",
     "appBar": {
       "togglePosition": "hidden"
     },
