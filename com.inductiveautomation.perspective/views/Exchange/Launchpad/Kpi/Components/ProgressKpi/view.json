@@ -1,35 +1,6 @@
 {
   "custom": {
-    "instances": [
-      {
-        "label": "Line 1",
-        "path": "[default]Exchange/Launchpad/Lines/Line1/ActivePower"
-      },
-      {
-        "label": "Line 2",
-        "path": "[default]Exchange/Launchpad/Lines/Line2/ActivePower"
-      },
-      {
-        "label": "Line 3",
-        "path": "[default]Exchange/Launchpad/Lines/Line3/ActivePower"
-      },
-      {
-        "label": "Line 4",
-        "path": "[default]Exchange/Launchpad/Lines/Line4/ActivePower"
-      },
-      {
-        "label": "Line 5",
-        "path": "[default]Exchange/Launchpad/Lines/Line5/ActivePower"
-      },
-      {
-        "label": "Line 6",
-        "path": "[default]Exchange/Launchpad/Lines/Line6/ActivePower"
-      },
-      {
-        "label": "Line 7",
-        "path": "[default]Exchange/Launchpad/Lines/Line7/ActivePower"
-      }
-    ]
+    "instances": []
   },
   "params": {
     "folderPath": "[default]Exchange/Launchpad/Lines"
@@ -57,7 +28,7 @@
   },
   "props": {
     "defaultSize": {
-      "height": 709,
+      "height": 637,
       "width": 564
     }
   },
@@ -75,7 +46,7 @@
             "classes": "exchange/launchpad/kpi/text/header",
             "margin": 8
           },
-          "text": "Active Power"
+          "text": "Active Powerr"
         },
         "type": "ia.display.label"
       },
