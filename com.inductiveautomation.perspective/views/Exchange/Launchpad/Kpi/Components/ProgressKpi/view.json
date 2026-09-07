@@ -46,7 +46,7 @@
             "classes": "exchange/launchpad/kpi/text/header",
             "margin": 8
           },
-          "text": "Active Powerr"
+          "text": "Active Power 2"
         },
         "type": "ia.display.label"
       },
