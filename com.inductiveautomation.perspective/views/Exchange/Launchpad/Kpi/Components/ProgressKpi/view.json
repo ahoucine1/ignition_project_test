@@ -46,7 +46,7 @@
             "classes": "exchange/launchpad/kpi/text/header",
             "margin": 8
           },
-          "text": "Active Power 10"
+          "text": "Active Power X"
         },
         "type": "ia.display.label"
       },
